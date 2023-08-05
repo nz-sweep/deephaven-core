@@ -10,4 +10,7 @@ public class ControlledUpdateGraph extends PeriodicUpdateGraph {
     private ControlledUpdateGraph() {
         super("TEST", true, 1000, 25, -1);
     }
+
+    // Add the identified test-related methods from PeriodicUpdateGraph here
+    // Update any dependencies and references as necessary
 }
